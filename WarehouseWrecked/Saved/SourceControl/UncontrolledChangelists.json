@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/allan/OneDrive/Documents/GitHub/WarehouseWreckage/WarehouseWrecked/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"E:/UE/UE_5.2/Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset",
+				"C:/Users/allan/OneDrive/Documents/GitHub/WarehouseWreckage/WarehouseWrecked/Content/StarterContent/Maps/Advanced_Lighting.umap",
+				"C:/Users/allan/OneDrive/Documents/GitHub/WarehouseWreckage/WarehouseWrecked/Content/StarterContent/Maps/Minimal_Default.umap"
+			]
+		}
+	]
+}
